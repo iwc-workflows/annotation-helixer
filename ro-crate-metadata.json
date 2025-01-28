@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-01-24T10:24:59.272070",
+            "datePublished": "2025-01-28T20:45:53.518538",
             "hasPart": [
                 {
                     "@id": "Galaxy-Workflow-annotation_helixer.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/annotation-helixer",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
